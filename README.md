@@ -5,7 +5,7 @@
 - Mailing list: [Google Groups](http://groups.google.com/group/terraform-tool)
 
 ## Requirements  
-  
+    
 -	[Terraform](https://www.terraform.io/downloads.html) 0.10.1+
 -	[Go](https://golang.org/doc/install) 1.16 (to build the provider plugin)
 
