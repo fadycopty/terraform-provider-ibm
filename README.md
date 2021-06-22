@@ -11,7 +11,7 @@
  
 ## Building The Provider
 
-Clone repository to: `$GOPATH/src/github.com/IBM-Cloud/terraform-provider-ibm`
+Clone repository to: `$GOPATH/src/github.com/IBM-Cloud/terraform-provider-ibm`  
   
 ```sh
 mkdir -p $GOPATH/src/github.com/IBM-Cloud; cd $GOPATH/src/github.com/IBM-Cloud
