@@ -4,7 +4,7 @@
 - [![Gitter chat](https://badges.gitter.im/hashicorp-terraform/Lobby.png)](https://gitter.im/hashicorp-terraform/Lobby)
 - Mailing list: [Google Groups](http://groups.google.com/group/terraform-tool)
 
-## Requirements
+## Requirements  
 
 -	[Terraform](https://www.terraform.io/downloads.html) 0.10.1+
 -	[Go](https://golang.org/doc/install) 1.16 (to build the provider plugin)
