@@ -13,7 +13,7 @@
 
 Clone repository to: `$GOPATH/src/github.com/IBM-Cloud/terraform-provider-ibm`  
     
-```sh
+```sh  
 mkdir -p $GOPATH/src/github.com/IBM-Cloud; cd $GOPATH/src/github.com/IBM-Cloud
 git clone git@github.com:IBM-Cloud/terraform-provider-ibm.git
 ```
