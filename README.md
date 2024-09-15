@@ -1,23 +1,23 @@
 # Terraform Provider
-
+  
 - Website: https://www.terraform.io
 - [![Gitter chat](https://badges.gitter.im/hashicorp-terraform/Lobby.png)](https://gitter.im/hashicorp-terraform/Lobby)
 - Mailing list: [Google Groups](http://groups.google.com/group/terraform-tool)
 
-## Requirements
-
--	[Terraform](https://www.terraform.io/downloads.html) 0.10.1+
--	[Go](https://golang.org/doc/install) 1.16 (to build the provider plugin)
-
-## Building The Provider
-
-Clone repository to: `$GOPATH/src/github.com/IBM-Cloud/terraform-provider-ibm`
-
-```sh
+## Requirements 
+  
+-	[Terraform](https://www.terraform.io/downloads.html) 0.10.1+       
+-	[Go](https://golang.org/doc/install) 1.16 (to build the provider plugin)   
+   
+## Building The Provider   
+    
+Clone repository to: `$GOPATH/src/github.com/IBM-Cloud/terraform-provider-ibm`    
+       
+```sh  
 mkdir -p $GOPATH/src/github.com/IBM-Cloud; cd $GOPATH/src/github.com/IBM-Cloud
 git clone git@github.com:IBM-Cloud/terraform-provider-ibm.git
 ```
-
+  
 Enter the provider directory and build the provider
 
 ```sh
