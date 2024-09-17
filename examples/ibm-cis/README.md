@@ -1,6 +1,6 @@
 # This example shows how to create and IBM Cloud Internet Services instance, monitor, pools, global load balancer, DNS Records, Firewall, Rate Limiting, Page Rule, Custom Page, Routing, Cache Settings, TLS Settings, Edge Function Actions, Edge Function Tirggers
 
-This sample configuration will configure CIS instance, a health check monitor, origin pool, global load balancer, DNS Record, Firewall, Rate Limit, Page Rule, Custom Page, Routing, Cache Settings, TLS Settings, Edge Function Actions, Edge Function Tirggers. Also see the example `ibm-website-multi-region` for an example of using CIS with a working website deployed across multiple regions.
+This sample configuration will configure CIS instance, a health check monitor, origin pool, global load balancer, DNS Record, Firewall, Rate Limit, Page Rule, Custom Page, Routing, Cache Settings, TLS Settings, Edge Function Actions, Edge Function Tirggers. Also see the example `ibm-website-multi-region` for an example of using CIS with a working website deployed across multiple regions. 
 
 These types of resources are supported:
 
